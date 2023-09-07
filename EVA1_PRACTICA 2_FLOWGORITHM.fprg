@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Gabael"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-04 05:49:18 PM"/>
+        <attribute name="created" value="R2FiYWVsO0RFU0tUT1AtNzQzM0ExUzsyMDIzLTA5LTA0OzA1OjEwOjE1IFBNOzI4Mzc="/>
+        <attribute name="edited" value="R2FiYWVsO0RFU0tUT1AtNzQzM0ExUzsyMDIzLTA5LTA0OzA1OjQ5OjE4IFBNOzE7Mjk2MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="mensaje" type="String" array="False" size=""/>
+            <assign variable="mensaje" expression="&quot;Hola mundo&quot;"/>
+            <output expression="mensaje" newline="False"/>
+            <output expression="&quot; &quot;" newline="True"/>
+            <output expression="&quot;Estamos aprendiendo a programar&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
