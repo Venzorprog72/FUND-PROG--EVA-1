@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Gabael"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2023-09-08 05:29:21 PM"/>
+        <attribute name="created" value="R2FiYWVsO0RFU0tUT1AtNzQzM0ExUzsyMDIzLTA5LTA4OzA1OjEyOjAyIFBNOzI4Mzk="/>
+        <attribute name="edited" value="R2FiYWVsO0RFU0tUT1AtNzQzM0ExUzsyMDIzLTA5LTA4OzA1OjI5OjIxIFBNOzE7Mjk1Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="APELLIDOS" type="String" array="False" size=""/>
+            <declare name="NOMBRE" type="String" array="False" size=""/>
+            <declare name="NOCONTROL" type="String" array="False" size=""/>
+            <declare name="CARRERA" type="String" array="False" size=""/>
+            <declare name="SEMESTRE" type="Integer" array="False" size=""/>
+            <output expression="&quot;Ingrese sus apellidos&quot;" newline="True"/>
+            <input variable="APELLIDOS"/>
+            <output expression="&quot;Ingrese su nombre&quot;" newline="True"/>
+            <input variable="NOMBRE"/>
+            <output expression="&quot;Ingrese su numero de control&quot;" newline="True"/>
+            <input variable="NOCONTROL"/>
+            <output expression="&quot;Ingrese su carrera&quot;" newline="True"/>
+            <input variable="CARRERA"/>
+            <output expression="&quot;Ingrese su semestre&quot;" newline="True"/>
+            <input variable="SEMESTRE"/>
+            <output expression="APELLIDOS" newline="True"/>
+            <output expression="NOMBRE" newline="True"/>
+            <output expression="NOCONTROL" newline="True"/>
+            <output expression="CARRERA" newline="True"/>
+            <output expression="SEMESTRE" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
