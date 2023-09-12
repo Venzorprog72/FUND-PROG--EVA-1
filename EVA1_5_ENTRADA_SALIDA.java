@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Gabael
+ * @author Venzor
  */
 public class EVA1_5_ENTRADA_SALIDA {
 
