@@ -6,7 +6,7 @@ package eva1_11_tipos_de_datoss;
 
 /**
  *
- * @author venzor
+ * @author invitado
  */
 public class EVA1_11_TIPOS_DE_DATOSS {
 
